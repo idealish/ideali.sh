@@ -10,20 +10,10 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-  - text: Referenced section
+  - text: Resources
     links: footer
-  - text: External link
-    href: https://18f.gsa.gov
+  - text: Shop
+    href:
     external: true
 
 secondary:
@@ -33,28 +23,13 @@ secondary:
     href: https://18f.gsa.gov
     external: true
 
-docs:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-  - text: Referenced section
-    links: footer
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
-
 footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link
-    href: /demo/
-  - text: External link
-    href: https://18f.gsa.gov
+  - text: Organizations
+    href:
+    external: true
+  - text: Meetups & Events
+    href:
+    external: true
+  - text: Tools
+    href:
     external: true
