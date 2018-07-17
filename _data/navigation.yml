@@ -10,6 +10,7 @@
 #   links: primary
 #
 primary:
+  - text: News
   - text: Resources
     links: footer
   - text: Shop
